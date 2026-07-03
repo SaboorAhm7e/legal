@@ -1,2 +1,2 @@
 # legal
-contains privacy and terms url
+contains privacy and terms url for apps
